@@ -9,7 +9,7 @@ index the documents iteratively, and fetch results for user queries.
 INSTRUCTIONS OF DEPLOYING CRAWLER AND LUCENE INDEXING 
 
 1. To run the crawler run the crawler script file ./crawler.sh located in src/cralwer directory
-2. 
+
 $:./cralwer.sh <wikipedia-url> <output-directory-path> <depth - number of documents to crawl>
 <number of threads>
 Arguments:
